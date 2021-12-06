@@ -1,5 +1,6 @@
 {
   "name": "dreamhouse-web-app",
+  "main": "index.html",
   "engines": {
     "node": "6.11.1"
   },
